@@ -57,8 +57,8 @@ LipReading-2.0/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/LipReading-2.0.git
-   cd LipReading-2.0
+   git clone https://github.com/Iamfavur/lip-reading-AI.git
+   cd lip-reading-AI
    ```
 
 2. **Install Dependencies**
