@@ -1,0 +1,8 @@
+# To create a virtual environment and install the dependencies
+# python3 -m venv venv
+pip3 install tensorflow==2.10.0
+pip3 install streamlit==1.13.0
+pip3 install "altair<5,>=4.0"
+pip3 install opencv-python==4.6.0.66
+pip3 install matplotlib==3.5.3
+pip3 install imageio==2.22.4
